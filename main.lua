@@ -1,17 +1,3 @@
-warn("scam script not made by terminite!!!!")
-wait(1)
-warn("scam script not made by terminite!!!!")
-wait(1)
-warn("scam script not made by terminite!!!!")
-wait(1)
-warn("scam script not made by terminite!!!!")
-wait(1)
-warn("scam script not made by terminite!!!!")
-wait(1)
-warn("scam script not made by terminite!!!!")
-wait(1)
-warn("scam script not made by terminite!!!!")
-
 game.Players.LocalPlayer.XRay.Value = true
 ----------------------------------------------------------------------
 	workspace:FindFirstChildOfClass('Terrain').WaterWaveSize = 0
