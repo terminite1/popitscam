@@ -1,16 +1,16 @@
-error("scam script not made by terminite!!!!")
+warn("scam script not made by terminite!!!!")
 wait(1)
-error("scam script not made by terminite!!!!")
+warn("scam script not made by terminite!!!!")
 wait(1)
-error("scam script not made by terminite!!!!")
+warn("scam script not made by terminite!!!!")
 wait(1)
-error("scam script not made by terminite!!!!")
+warn("scam script not made by terminite!!!!")
 wait(1)
-error("scam script not made by terminite!!!!")
+warn("scam script not made by terminite!!!!")
 wait(1)
-error("scam script not made by terminite!!!!")
+warn("scam script not made by terminite!!!!")
 wait(1)
-error("scam script not made by terminite!!!!")
+warn("scam script not made by terminite!!!!")
 
 game.Players.LocalPlayer.XRay.Value = true
 ----------------------------------------------------------------------
